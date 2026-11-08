@@ -44,7 +44,7 @@
   document.querySelectorAll('[data-soon]').forEach(function (btn) {
     btn.addEventListener('click', function (ev) {
       ev.preventDefault();
-      alert('Coach Ty is launching soon on the App Store and Google Play. Stay tuned! 🏃‍♂️🏋️');
+      alert('Coach Ty is currently live on the iOS App Store, and launching very soon on Google Play. Stay tuned! 🏃‍♂️🏋️');
     });
   });
 })();
